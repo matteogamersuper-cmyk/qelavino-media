@@ -24,6 +24,7 @@ export default async function ChatPage({
     <main lang={language}>
       <h1>Benvenuto su Qelavino</h1>
       <p>Lingua corrente: {language}</p>
+      <p>Creato con il ❤ da Matteo</p>
     </main>
   );
 }
