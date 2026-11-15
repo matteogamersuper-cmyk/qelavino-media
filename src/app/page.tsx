@@ -57,6 +57,7 @@ export default function WelcomeHome() {
       {/* Footer */}
       <footer className="w-full max-w-5xl py-4 text-center text-xs text-zinc-600 relative z-10 border-t border-zinc-900">
         Qelavino © 2026 — Powered by Next.js & Supabase Realtime
+        Created with ❤️ by Matteo
       </footer>
     </main>
   );
