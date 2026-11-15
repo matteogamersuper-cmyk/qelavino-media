@@ -21,7 +21,7 @@ export default async function ChatPage({
   }
 
   return (
-    <main lang={language}>
+    <main className="flex min-h-screen flex-col items-center justify-between p-6 md:p-24 bg-zinc-950 text-zinc-100 relative overflow-hidden" lang={language}>
       <h1>Benvenuto su Qelavino</h1>
       <p>Lingua corrente: {language}</p>
       <p>Creato con il ❤ da Matteo</p>
