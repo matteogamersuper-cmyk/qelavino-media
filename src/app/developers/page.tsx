@@ -29,7 +29,7 @@ export default function WelcomeHome() {
 
         <div className="pt-4 flex flex-wrap gap-4 justify-center text-xs text-zinc-400">
           <div className="flex items-center gap-1.5 bg-zinc-900 border border-zinc-800 px-3.5 py-2 rounded-xl">
-            <Zap className="w-4 h-4 text-indigo-400" />
+            <ShieldCheck className="w-4 h-4 text-indigo-400" />
             <span>SDK Disponibili per Python JavaScript e TypeScript</span>
           </div>
         </div>
